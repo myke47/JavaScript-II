@@ -1,5 +1,10 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+const me = 'Wade Wilson'
+function sayHello() {
+  console.log('MAXIMUM EFFORT, ' + me + '!')
+}  
+sayHello()
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
